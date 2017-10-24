@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebSource</string>
+    <string name="pilihanweb"></string>
+     <string-array name="jenis_web">
+         <item>http://</item>
+         <item>https://</item>
+     </string-array>
+</resources>
